@@ -1,0 +1,53 @@
+pid	  ------------------UserId
+name  ------------------User Name
+school1 ----------------School 1	
+absrate1 ---------------Absent Rate	
+tardyr1	----------------IQ Measurement
+nsusp1	----------------Number of Suspension
+mobility1 --------------Mobility	
+q1mpa1	----------------Semester 1 MPA (Megapascal Pressure Unit)
+q2mpa1	----------------Semester 2 MPA (Megapascal Pressure Unit)
+q3mpa1	----------------Semester 3 MPA (Megapascal Pressure Unit)	
+q4mpa1	----------------Semester 4 MPA (Megapascal Pressure Unit)	
+g5mapr1	----------------Semester 5 MPA (Megapascal Pressure Unit)	
+g6msam1	----------------Semester 6 MPA (Megapascal Pressure Unit)
+g7msam1	----------------Semester 7 MPA (Megapascal Pressure Unit)
+g8msam1	----------------Semester 8 MPA (Megapascal Pressure Unit)	
+
+	
+
+psatm	
+psatv	
+g8msam	
+g8mapr	
+birth	
+male	
+miss_code1	
+miss_code2	
+miss_code3	
+miss_code4	
+miss_code5	
+miss_code6	
+miss_code7	
+wcode_last	
+last_code	
+last_year	
+grad	
+nograd	
+drop	
+new4	
+new5	
+new6	
+new7	
+attend_class	
+g8_schl	
+g9_schl	
+mpa_ave	
+nsusp_ave	
+abs_ave	risk6	
+risk7	
+risk8	
+risk9	
+risk10	
+risk11	
+risk12
